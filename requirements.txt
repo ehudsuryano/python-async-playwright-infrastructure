@@ -1,0 +1,8 @@
+# requirements.txt
+pytest
+pytest-asyncio
+playwright
+pytest-html
+allure-pytest
+pytest-xdist
+pytest-rerunfailures
