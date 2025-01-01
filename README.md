@@ -94,4 +94,4 @@ License
 This project is licensed under the MIT License.
 
 Author
-Developed by [Your Name]. For questions, reach out at ehudsuryano@gmail.com.
+Developed by Ehud Suryano. For questions, reach out at ehudsuryano@gmail.com.
